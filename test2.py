@@ -3,3 +3,6 @@ print("do some changes, now i open this again")
 from test import *
 
 """This change was made by Vanessa"""
+"""
+A note from LinHan
+"""
